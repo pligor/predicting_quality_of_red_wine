@@ -1,4 +1,4 @@
-Predicting Quality of Red Wine
+# Predicting Quality of Red Wine
 
 by Georgios Pligoropoulos <george@pligor.com>
 
