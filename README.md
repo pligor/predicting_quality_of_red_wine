@@ -1,3 +1,6 @@
+# Feedback from AXA Insurance Company:
+"Clearly, you’re very technically accomplished.  Your solution to the technical challenge was excellent and demonstrated a very wide variety of modelling techniques." - Jimmy Hill, Head of Data Science at AXA
+
 # Predicting Quality of Red Wine
 
 by Georgios Pligoropoulos <george@pligor.com>
